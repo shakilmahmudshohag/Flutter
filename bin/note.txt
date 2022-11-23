@@ -1,0 +1,9 @@
+Chapter 1 
+Developer account
+
+chapter 2
+setup
+flutter-cmd
+Environment variable-path-double tap-add -bin address of flutter
+flutter doctor-cmd
+flutter create kilmu-cmd
