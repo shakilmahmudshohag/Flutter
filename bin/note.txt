@@ -7,3 +7,7 @@ flutter-cmd
 Environment variable-path-double tap-add -bin address of flutter
 flutter doctor-cmd
 flutter create kilmu-cmd
+
+chapter-3
+code.
+ctrl +shift+p
